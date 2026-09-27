@@ -236,11 +236,9 @@ h1 {
   border-radius: 18px;
   box-shadow: 0 24px 70px rgba(0, 0, 0, 0.34);
 }
-
 .cover-art {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
+  height: auto;
 }
 
 .release-info {
